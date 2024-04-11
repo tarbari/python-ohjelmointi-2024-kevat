@@ -1,0 +1,7 @@
+# TODO: Kirjoita kommentit
+env/
+.env/
+venv/
+.venv/
+
+downloads/
